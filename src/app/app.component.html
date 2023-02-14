@@ -1,0 +1,8 @@
+<app-todolist></app-todolist>
+<!--Oauth-->
+<div *ngIf="isLoggedIn()"> 
+  <div class="container">
+    <button class="btn btn-primary" (click)="logout()">Logout</button>
+  </div>
+  
+</div>

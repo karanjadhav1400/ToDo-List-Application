@@ -1,0 +1,11 @@
+h1 {
+    text-align: centre;
+    font-size: 2rem;
+}
+#submitButton {
+    margin-top: 20px;
+
+}
+#myCheckbox {
+    margin-left: 30px;
+}
